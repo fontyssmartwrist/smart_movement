@@ -22,6 +22,10 @@ Install guide
 
    3) Clone this project and the dependencies to your catkin's workspace src folder
    4) Run catkin_make to build 
+   
+Documentation
+=====================================================================
+Documentation how it works can be found in Documentation_on_MoveIt.pdf
 
 Authors
 =====================================================================
