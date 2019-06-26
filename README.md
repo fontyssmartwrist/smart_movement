@@ -7,6 +7,7 @@ This ROS node is used for giving orders to the Fontys Smart Wrist.
 Dependencies
 =====================================================================
 [The robot model](https://github.com/fontyssmartwrist/sw_v3_description)
+
 [The MoveIt! package](https://github.com/fontyssmartwrist/moveit_smart_wrist)
 
 Install guide
