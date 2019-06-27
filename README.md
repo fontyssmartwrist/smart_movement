@@ -25,7 +25,7 @@ Install guide
    
 Documentation
 =====================================================================
-Documentation how it works can be found in Documentation_on_MoveIt.pdf
+Documentation how it works can be found in the [wiki](https://github.com/fontyssmartwrist/smart_movement/wiki)
 
 Authors
 =====================================================================
