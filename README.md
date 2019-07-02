@@ -30,4 +30,6 @@ Documentation on how it works can be found in the [wiki](https://github.com/font
 Authors
 =====================================================================
 Aike van Alkemade 
+Mahmoud Omar Ouali
+
 
